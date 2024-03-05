@@ -1,0 +1,28 @@
+
+v
+java:S1192#"TDefine a constant instead of duplicating this literal "-------------------" 7 times.(ÕÇÕûÿÿÿÿ8ÓôÊ‚á1
+^
+java:S1854"ARemove this useless assignment to local variable "sellerService".(äôú8ÙôÊ‚á1
+O
+java:S1481"2Remove this unused "sellerService" local variable.(äôú8ÚôÊ‚á1
+L	java:S106"+Replace this use of System.out by a logger.(Æ³³·ıÿÿÿÿ8ÛôÊ‚á1
+L	java:S106!"+Replace this use of System.out by a logger.(¿Œ²‘şÿÿÿÿ8ÛôÊ‚á1
+L	java:S106#"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8ÛôÊ‚á1
+G	java:S106'"+Replace this use of System.out by a logger.(äÕò‡8ÛôÊ‚á1
+L	java:S106)"+Replace this use of System.out by a logger.(¿Œ²‘şÿÿÿÿ8ÛôÊ‚á1
+L	java:S106+"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8ÛôÊ‚á1
+G	java:S106-"+Replace this use of System.out by a logger.(Áâ¢í8ÛôÊ‚á1
+L	java:S106/"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8ÜôÊ‚á1
+L	java:S1061"+Replace this use of System.out by a logger.(…‡Åìÿÿÿÿÿ8ÜôÊ‚á1
+G	java:S1063"+Replace this use of System.out by a logger.(î´ŸÉ8ÜôÊ‚á1
+L	java:S1065"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8ÜôÊ‚á1
+L	java:S1067"+Replace this use of System.out by a logger.(•²ŞÙùÿÿÿÿ8ÜôÊ‚á1
+G	java:S1069"+Replace this use of System.out by a logger.(î´ŸÉ8ÜôÊ‚á1
+L	java:S106;"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8ÜôÊ‚á1
+G	java:S106="+Replace this use of System.out by a logger.(äğÀ8ÜôÊ‚á1
+L	java:S106?"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8İôÊ‚á1
+L	java:S106A"+Replace this use of System.out by a logger.(Š‘óìÿÿÿÿÿ8İôÊ‚á1
+G	java:S106C"+Replace this use of System.out by a logger.(«‹Îõ8İôÊ‚á1
+L	java:S106E"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8İôÊ‚á1
+L	java:S106G"+Replace this use of System.out by a logger.(ë¢Ìôüÿÿÿÿ8İôÊ‚á1
+L	java:S106I"+Replace this use of System.out by a logger.(ßŸÂ•üÿÿÿÿ8İôÊ‚á1

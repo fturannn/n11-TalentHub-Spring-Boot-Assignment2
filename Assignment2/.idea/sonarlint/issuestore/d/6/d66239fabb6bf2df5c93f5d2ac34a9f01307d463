@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—²¦Οώÿÿÿÿ8ΐÿρα1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ϊΥ«πωÿÿÿÿ8Βÿρα1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬θύÿÿÿÿ8Εÿρα1
